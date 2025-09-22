@@ -14,3 +14,4 @@ export default function App() {
 }
 // commit için değişiklik
 // hatalar kontrol edildi
+// proje hazırlandı
